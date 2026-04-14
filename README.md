@@ -10,13 +10,14 @@
   <b><i style="font-family: 'Georgia', serif; font-size: 1.2em;">Current Life Status:</i></b><br><br>
   <img src="https://i.ibb.co/Vvz4h5J/sad-emoji-pink.png" alt="Minimalist Sad Pink Emoji" width="120" height="120" />
   <br><br>
-  <i style="font-size: 1.1em; color: #555;">"Error 404: Relationship not found. Just me, my code, and a broken heart."</i>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaldyh&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaldyh&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<br>
-<br>
-
----
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaldyh&theme=radical&hide_border=true" />
+</p>
 
 ### 🛠️ Skills & Technologies
 <p align="left"> 
