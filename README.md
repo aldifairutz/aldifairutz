@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Aldy%20%7C%20AI%20%26%20Data%20Eng.&fontSize=50&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aldy</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Informatics Engineering Student at Universitas Muhammadiyah Makassar</h3>
 
 <p align="center">
