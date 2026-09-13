@@ -56,3 +56,8 @@ Building AI projects · Learning Machine Learning · Improving Python
     <img alt="Animasi Ular" src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldifairutz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Statistik GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldifairutz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="150" />
+</p>
