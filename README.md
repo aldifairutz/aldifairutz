@@ -1,58 +1,42 @@
-<h1 align="center">Hi 👋, I'm ALDI</h1>
+# ALDI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;NLP+%7C+RAG+%7C+Data+Science" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=2000&color=8B949E&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Informatics+Engineering+Student" />
 </p>
 
-<h2 align="center">🐍 My Contributions</h2>
+**Informatics Engineering Student · AI & Machine Learning**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-contribution-grid-snake.svg" />
-</p>
-
-## 🚀 About Me
-
-I'm an Informatics Engineering student interested in
+I’m interested in building practical applications with
 Artificial Intelligence, Machine Learning, NLP, and Data.
 
-Currently building projects and improving my skills
-through academic projects and personal projects.
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,git,github,vscode" />
+</p>
+
+**AI & Data:** Python · Pandas · NumPy · Scikit-learn · NLP · RAG
 
 ---
 
-## 🛠️ Tech Stack
+### Selected Projects
 
-### Languages
-Python • PHP • JavaScript • SQL
-
-### AI & Data
-Machine Learning • NLP • Pandas • Scikit-learn
-
-### Tools
-Git • GitHub • VS Code • Streamlit
+- **NusaRAG** — AI assistant based on Retrieval-Augmented Generation
+- **SMS Spam Detection** — Indonesian text classification using NLP
+- **Smart Farming AI** — Machine Learning for agricultural data
 
 ---
 
-## 📌 Featured Projects
+### Currently
 
-### 🤖 NusaRAG
-AI assistant using Retrieval-Augmented Generation (RAG)
-to provide information from academic documents.
-
-### 📱 Indonesian SMS Spam Detection
-NLP-based classification system for detecting spam SMS.
-
-### 🌱 Smart Farming AI
-Machine Learning approach for agricultural data analysis.
+Building AI projects · Learning Machine Learning · Improving Python
 
 ---
 
-## 📊 GitHub Stats
-
-![Aldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldifairutz&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@aldifairutz](https://github.com/aldifairutz)
+<p align="left">
+  <a href="https://github.com/aldifairutz">
+    <img src="https://img.shields.io/badge/GitHub-aldifairutz-181717?style=flat-square&logo=github" />
+  </a>
+</p>
