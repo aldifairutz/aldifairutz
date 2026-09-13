@@ -44,3 +44,9 @@ Building AI projects · Learning Machine Learning · Improving Python
     <img src="https://img.shields.io/badge/GitHub-aldifairutz-181717?style=flat-square&logo=github" />
   </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
