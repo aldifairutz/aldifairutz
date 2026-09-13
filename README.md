@@ -1,10 +1,12 @@
-# ALDI
+<h1>ALDI</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=2000&color=8B949E&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Informatics+Engineering+Student" />
+  <img src="./aldi-animated-line.gif" width="700">
 </p>
 
-**Informatics Engineering Student · AI & Machine Learning**
+<p>
+  Informatics Engineering Student · AI & Machine Learning
+</p>
 
 I’m interested in building practical applications with
 Artificial Intelligence, Machine Learning, NLP, and Data.
