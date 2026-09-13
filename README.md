@@ -44,3 +44,7 @@ Building AI projects · Learning Machine Learning · Improving Python
     <img src="https://img.shields.io/badge/GitHub-aldifairutz-181717?style=flat-square&logo=github" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Halo,+saya+Aldi!;AI+%26+Machine+Learning+Enthusiast;Membangun+Sistem+Cerdas+%26+Terdistribusi" alt="Typing SVG" />
+</p>
