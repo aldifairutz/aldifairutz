@@ -1,4 +1,4 @@
-# ALDI
+# Hello word 👋
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=2000&color=8B949E&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Informatics+Engineering+Student" />
