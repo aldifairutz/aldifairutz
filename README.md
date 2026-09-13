@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake.svg">
+    <img alt="Animasi Ular" src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
+  </picture>
+</p>
+
 # Hello word 👋
 
 <p>
@@ -49,13 +57,6 @@ Building AI projects · Learning Machine Learning · Improving Python
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake.svg">
-    <img alt="Animasi Ular" src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldifairutz&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" height="150" />
