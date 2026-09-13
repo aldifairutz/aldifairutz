@@ -1,11 +1,14 @@
-# Hi,
+<h1 align="center">Hi 👋, I'm ALDI</h1>
 
-🎓 Informatics Engineering Student  
-🤖 AI & Machine Learning Enthusiast  
-🐍 Python Developer  
-📊 Data & NLP Explorer  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;NLP+%7C+RAG+%7C+Data+Science" />
+</p>
 
----
+<h2 align="center">🐍 My Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 🚀 About Me
 
