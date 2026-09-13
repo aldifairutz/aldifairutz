@@ -58,19 +58,10 @@ Building AI projects · Learning Machine Learning · Improving Python
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldifairutz&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldifairutz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldifairutz&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldifairutz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldifairutz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Bahasa Teratas" height="140" />
-</p>
-
-<p align="left">
-  <a href="mailto:emailanda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/username-anda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldifairutz&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" height="140" />
 </p>
