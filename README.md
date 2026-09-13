@@ -65,3 +65,12 @@ Building AI projects · Learning Machine Learning · Improving Python
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldifairutz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Bahasa Teratas" height="140" />
 </p>
+
+<p align="left">
+  <a href="mailto:emailanda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/username-anda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
