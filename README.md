@@ -50,5 +50,9 @@ Building AI projects · Learning Machine Learning · Improving Python
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake.svg">
+    <img alt="Animasi Ular" src="https://raw.githubusercontent.com/aldifairutz/aldifairutz/output/github-snake-dark.svg">
+  </picture>
 </p>
