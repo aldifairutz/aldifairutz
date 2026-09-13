@@ -58,5 +58,6 @@ Building AI projects · Learning Machine Learning · Improving Python
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aldifairutz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aldifairutz&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldifairutz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
